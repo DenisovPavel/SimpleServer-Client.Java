@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11HomeTask/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11HomeTask/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson12/Flow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/LevelOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/LevelOne.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11HomeTask/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11HomeTask/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11HomeTask/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson11HomeTask/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/P1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/P1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/P4/P5/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/P4/P5/E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/codewars/StringEndsWith.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/codewars/StringEndsWith.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +74,13 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Java/HomeWork/LevelOne&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -89,7 +92,7 @@
       <recent name="Employee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarTest">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="Bike2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson9.Bike2" />
       <module name="LevelOne" />
@@ -116,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P4.D" />
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson11.EmployeeTest" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="P4.*" />
+          <option name="PATTERN" value="Lesson11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson11.EmployeeTest" />
+    <configuration name="Flow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson12.Flow" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson11.*" />
+          <option name="PATTERN" value="Lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +186,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lesson05.BankAccountTest" />
+      <item itemvalue="Application.Flow" />
       <item itemvalue="Application.CarTest" />
       <item itemvalue="Application.EmployeeTest" />
       <item itemvalue="Application.Student" />
-      <item itemvalue="Application.D" />
       <item itemvalue="Application.Bike2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.D" />
+        <item itemvalue="Application.Flow" />
+        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.Bike2" />
+        <item itemvalue="Application.EmployeeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +393,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658856544667</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="second lesson">
+      <created>1659179713234</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1659179713234</updated>
+    </task>
+    <task id="LOCAL-00028" summary="second lesson">
+      <created>1659180065090</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1659180065090</updated>
+    </task>
+    <task id="LOCAL-00029" summary="second lesson">
+      <created>1659180101527</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1659180101528</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

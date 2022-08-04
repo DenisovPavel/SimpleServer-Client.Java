@@ -1,11 +1,11 @@
 package Lesson11HomeTask;
 
 public class Car {
-    public String color;
+    public  String color;
     public String engine;
     public int doors;
 
-    Car(String color, String engine, int doors) {
+   public Car(String color, String engine, int doors) {
         this.color = color;
         this.engine = engine;
         this.doors = doors;
@@ -18,6 +18,7 @@ public class Car {
     color1.color = "Blue";
     color2.color = "White";
     }
+
 }
 
 

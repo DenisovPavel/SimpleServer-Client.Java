@@ -1,7 +1,7 @@
-package P4;
+package Lesson04.P4;
+import Lesson04.P4.P5.E;
 import P1.A;
 import P1.P2.P3.C;
-import P4.P5.E;
 
 import static P1.P2.B.*;
 

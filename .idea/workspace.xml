@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
-      <change afterPath="$PROJECT_DIR$/.idea/HomeWork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19builder/SBHomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19builder/Test1SB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19builder/Test2SB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19builder/Test3SB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/HomeTaskArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/MarryChristmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Shometask18/AnotherMetod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Shometask18/HomeTaskString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Shometask18/SHomeTaskTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/BubbleSortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/LevelOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/LevelOne.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/HomeTaskArray1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +95,7 @@
       <recent name="Employee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayHomeTask2">
+  <component name="RunManager" selected="Application.BubbleSortArray">
     <configuration name="ArrayHomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="STRINGLesson.ArrayHomeTask2" />
       <module name="LevelOne" />
@@ -128,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson11HomeTask.CarTest" />
+    <configuration name="BubbleSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LessonArrey.BubbleSortArray" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson11HomeTask.*" />
+          <option name="PATTERN" value="LessonArrey.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dlina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGLesson.Dlina" />
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson11HomeTask.CarTest" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STRINGLesson.*" />
+          <option name="PATTERN" value="Lesson11HomeTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,19 +189,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lesson05.BankAccountTest" />
+      <item itemvalue="Application.BubbleSortArray" />
       <item itemvalue="Application.ArrayHomeTask2" />
       <item itemvalue="Application.CarTest" />
-      <item itemvalue="Application.Dlina" />
       <item itemvalue="Application.HomeTaskEmail" />
       <item itemvalue="Application.HomeTaskEmailTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSortArray" />
         <item itemvalue="Application.ArrayHomeTask2" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.HomeTaskEmail" />
         <item itemvalue="Application.HomeTaskEmailTest" />
-        <item itemvalue="Application.Dlina" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659961555381</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="second lesson">
+      <created>1662894289649</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1662894289649</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

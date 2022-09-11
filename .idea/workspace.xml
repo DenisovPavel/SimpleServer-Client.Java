@@ -5,33 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson13/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson13/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson13/Month2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson13/Student1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson13/Student2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson14/Lesson14HomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson14/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson14/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson14/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Lesson15HomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson15/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/STRINGLesson/ArrayHomeTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/STRINGLesson/Dlina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/STRINGLesson/HomeTaskEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/STRINGLesson/HomeTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19builder/SBHomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19builder/Test1SB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19builder/Test2SB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19builder/Test3SB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/HomeTaskArray1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/MarryChristmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Shometask18/AnotherMetod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Shometask18/HomeTaskString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Shometask18/SHomeTaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/P4/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson04/P4/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/P4/P5/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson04/P4/P5/E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/LevelOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/LevelOne.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +59,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/Lesson04/Student.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/Lesson07b/Employee004Test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/Lesson12/Flow.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/Lesson13/Employee.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/Lesson14/Test2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/Lesson14/Test3.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/STRINGLesson/ArrayHomeTask2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/STRINGLesson/Dlina.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/STRINGLesson/HomeTaskEmail.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelOne/src/main/java/STRINGLesson/HomeTaskTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

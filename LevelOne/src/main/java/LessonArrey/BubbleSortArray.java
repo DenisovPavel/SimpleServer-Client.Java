@@ -9,7 +9,7 @@ public class BubbleSortArray {
         while (!isSorted) {
             isSorted=true;
             for (int index = 1; index < arrayToSort.length; index++) {
-                if (arrayToSort[index] < arrayToSort[index - 1]) {//если 1 элемент меньще предыдущего;
+                if (arrayToSort[index] < arrayToSort[index - 1]) {//если 1 элемент меньше предыдущего;
                     int temp = arrayToSort[index];//через 3 переменную меняем элементы местами;
                     arrayToSort[index] = arrayToSort[index - 1];
                     arrayToSort[index - 1] = temp;

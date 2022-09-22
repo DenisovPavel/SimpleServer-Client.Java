@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson" />
+    <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/codewars/DimaHomeTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/codewars/EnhancedForHomeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/codewars/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,9 +97,22 @@
       <recent name="Employee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSortArray">
-    <configuration name="ArrayHomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGLesson.ArrayHomeTask2" />
+  <component name="RunManager" selected="Application.DimaHomeTask1">
+    <configuration name="DimaHomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.DimaHomeTask1" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dlina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STRINGLesson.Dlina" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessonArrey.BubbleSortArray" />
+    <configuration name="Employee02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee.Employee02" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LessonArrey.*" />
+          <option name="PATTERN" value="Employee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,38 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson11HomeTask.CarTest" />
+    <configuration name="EnhancedForHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codewars.EnhancedForHomeTask" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson11HomeTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeTaskEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGLesson.HomeTaskEmail" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="STRINGLesson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeTaskEmailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGLesson.HomeTaskEmailTest" />
-      <module name="LevelOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="STRINGLesson.*" />
+          <option name="PATTERN" value="codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,6 +156,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarryChristmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LessonArrey.MarryChristmas" />
+      <module name="LevelOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LessonArrey.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,19 +191,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lesson05.BankAccountTest" />
-      <item itemvalue="Application.BubbleSortArray" />
-      <item itemvalue="Application.ArrayHomeTask2" />
-      <item itemvalue="Application.CarTest" />
-      <item itemvalue="Application.HomeTaskEmail" />
-      <item itemvalue="Application.HomeTaskEmailTest" />
+      <item itemvalue="Application.DimaHomeTask1" />
+      <item itemvalue="Application.Dlina" />
+      <item itemvalue="Application.EnhancedForHomeTask" />
+      <item itemvalue="Application.Employee02" />
+      <item itemvalue="Application.MarryChristmas" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSortArray" />
-        <item itemvalue="Application.ArrayHomeTask2" />
-        <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.HomeTaskEmail" />
-        <item itemvalue="Application.HomeTaskEmailTest" />
+        <item itemvalue="Application.DimaHomeTask1" />
+        <item itemvalue="Application.EnhancedForHomeTask" />
+        <item itemvalue="Application.Dlina" />
+        <item itemvalue="Application.Employee02" />
+        <item itemvalue="Application.MarryChristmas" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662904585641</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="second lesson">
+      <created>1662987306785</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1662987306785</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

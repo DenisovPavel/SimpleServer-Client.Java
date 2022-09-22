@@ -8,6 +8,7 @@ public class Main {
     }
 
     public static boolean checker(String first, String second) {
+
         return first.endsWith(second);
     }
 }

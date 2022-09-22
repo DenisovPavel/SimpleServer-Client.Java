@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31110048-3af8-4513-afaa-b3a1481c8ff7" name="Changes" comment="second lesson">
-      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/BubbleSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/EnhancedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/EnhancedForHomeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/EnhancedForVersionB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/EnhancedForVersionD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/EnhancedForVersionE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/EnhancedForVersionF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/EnhancedForVersionH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/EnhancedForVersionС.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LevelOne/src/main/java/Lesson19VarArgs/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/HomeTaskArray1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/LevelOne/src/main/java/LessonArrey/Test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,13 +104,13 @@
       <recent name="Employee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSortArray">
-    <configuration name="ArrayHomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGLesson.ArrayHomeTask2" />
+  <component name="RunManager" selected="Application.EnhancedForHomeTask">
+    <configuration name="EnhancedForHomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson19VarArgs.EnhancedForHomeTask" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STRINGLesson.*" />
+          <option name="PATTERN" value="Lesson19VarArgs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessonArrey.BubbleSortArray" />
+    <configuration name="EnhancedForVersionB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson19VarArgs.EnhancedForVersionB" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LessonArrey.*" />
+          <option name="PATTERN" value="Lesson19VarArgs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson11HomeTask.CarTest" />
+    <configuration name="EnhancedForVersionD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson19VarArgs.EnhancedForVersionD" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson11HomeTask.*" />
+          <option name="PATTERN" value="Lesson19VarArgs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeTaskEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGLesson.HomeTaskEmail" />
+    <configuration name="EnhancedForVersionE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson19VarArgs.EnhancedForVersionE" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STRINGLesson.*" />
+          <option name="PATTERN" value="Lesson19VarArgs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeTaskEmailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="STRINGLesson.HomeTaskEmailTest" />
+    <configuration name="EnhancedForVersionF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson19VarArgs.EnhancedForVersionF" />
       <module name="LevelOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="STRINGLesson.*" />
+          <option name="PATTERN" value="Lesson19VarArgs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,34 +183,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="HomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="HomeWork" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Lesson05.BankAccountTest" />
-      <item itemvalue="Application.BubbleSortArray" />
-      <item itemvalue="Application.ArrayHomeTask2" />
-      <item itemvalue="Application.CarTest" />
-      <item itemvalue="Application.HomeTaskEmail" />
-      <item itemvalue="Application.HomeTaskEmailTest" />
+      <item itemvalue="Application.EnhancedForHomeTask" />
+      <item itemvalue="Application.EnhancedForVersionF" />
+      <item itemvalue="Application.EnhancedForVersionD" />
+      <item itemvalue="Application.EnhancedForVersionE" />
+      <item itemvalue="Application.EnhancedForVersionB" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSortArray" />
-        <item itemvalue="Application.ArrayHomeTask2" />
-        <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.HomeTaskEmail" />
-        <item itemvalue="Application.HomeTaskEmailTest" />
+        <item itemvalue="Application.EnhancedForHomeTask" />
+        <item itemvalue="Application.EnhancedForVersionB" />
+        <item itemvalue="Application.EnhancedForVersionF" />
+        <item itemvalue="Application.EnhancedForVersionE" />
+        <item itemvalue="Application.EnhancedForVersionD" />
       </list>
     </recent_temporary>
   </component>

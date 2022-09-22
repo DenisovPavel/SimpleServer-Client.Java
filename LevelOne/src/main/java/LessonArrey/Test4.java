@@ -5,18 +5,15 @@ import java.util.Arrays;
 public class Test4 {
     public static void main(String[] args) {
         int array1[] = {1, 9, 3, -8, 0, 5, 4, 1};
-
-
         for (int i = 0; i < array1.length; i++) {
             System.out.print(array1[i] + " ");                    //1 9 3 -8 0 5 4 1
         }
         System.out.println();// с новой строки;
-                                                                                // Метод sort(array);сортирует массив;
+        // Метод sort(array);сортирует массив;
         Arrays.sort(array1);// Arrays(вызываем из импорта)+метод sort(внутри наш массив)+далее цикл;
         for (int i = 0; i < array1.length; i++) {
             System.out.print(array1[i] + " ");                   // -8 0 1 1 3 4 5 9
         }
-
                                               // Метод binarySearch(array,value);Поиск опр.значения в опрд-ом массиве;
                                               //Он работает корректно только тогда,когда массив уже отсортирован;
         System.out.println();

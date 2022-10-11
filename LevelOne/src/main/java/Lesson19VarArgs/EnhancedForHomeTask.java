@@ -4,7 +4,7 @@ public class EnhancedForHomeTask {
     public static void abc(String ... array){
         String [] array1 = null;
         for (int i = 0; i < array1.length; i++) {
-            array1 = array[i];
+          //  array1 = array[i];
         }
         System.out.print(array);
     }

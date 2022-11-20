@@ -3,6 +3,7 @@ package EncapsulationLesson;
 // Сокрытие данных, защита их от внешнего
 // нежелательного вмешательства, помещение их в
 // в "капсулу";
+// set(меняет), get(вызывает), is(для boolean, к примеру public boolean isClever() output: true || false)
 public class EncapsulationExamples {
     //Человек
     final String pol;

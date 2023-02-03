@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="225ce05d-6386-45cc-94f2-21b43c9bb054" name="Changes" comment="Encapsulations Ex" />
+    <list default="true" id="225ce05d-6386-45cc-94f2-21b43c9bb054" name="Changes" comment="Encapsulations Ex">
+      <change afterPath="$PROJECT_DIR$/../SimpleWebServer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleWebServer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleWebServer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleWebServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleWebServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleWebServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleWebServer/src/main/java/SimpleWebServer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleWebServer/src/main/java/SimpleWebServer/WebServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +22,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/STRINGLesson/ArrayHomeTask2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/STRINGLesson/Dlina.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/STRINGLesson/HomeTaskEmail.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

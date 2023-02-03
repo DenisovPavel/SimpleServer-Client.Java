@@ -12,7 +12,7 @@ public class Test3 {
 
 
         // NullPointerException:Пытаемся узнать информацию у обьекта который null;
-//        int [] []array2= new int[3][];
+//        int [][] array2= new int[3][];
 //        System.out.println(array2[0][1]); - так как обьект массива еще не определен,выскочит на компиляции ошибка;
     }
 }
